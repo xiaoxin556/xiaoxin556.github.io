@@ -7,5 +7,5 @@ Lab*.ipynb
 lab*.ipynb
 
 # virtual environments
-.venv/
+venv/
 myenv/
