@@ -1,4 +1,4 @@
 format: jb-book
 root: index
 chapters:
-  - file: assignment_project_1
+  - file: Project_1
